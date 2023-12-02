@@ -46,6 +46,7 @@ INSTALLED_APPS = [
     'rest_framework_simplejwt',
     'drf_yasg',
     'djoser',
+    'phonenumber_field',
 
     'users',
 ]

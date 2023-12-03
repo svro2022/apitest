@@ -76,7 +76,7 @@ CRUD для модели поставщика (запретить обновле
 ### Запуск проекта 
 
 **Клонируем проект по ссылке:**
-> https://github.com/svro2022/coursework_6_skymarket.git
+> https://github.com/svro2022/apitest.git
 
 ### Через docker
 Создаем контейнер:

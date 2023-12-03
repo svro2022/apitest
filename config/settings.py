@@ -47,6 +47,7 @@ INSTALLED_APPS = [
     'drf_yasg',
     'djoser',
     'phonenumber_field',
+    'django_filters',
 
     'users',
     'products',

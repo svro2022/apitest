@@ -34,7 +34,7 @@
 ## Запуск проекта 
 
 **Клонируем проект по ссылке:**
-> https://github.com/svro2022/apitest.git
+> https://github.com/svro2022/products_network.git
 
 ### Через docker
 Создаем контейнер:
